@@ -1,0 +1,14 @@
+@import '/src/theme/_mixin.scss';
+
+.button {
+  padding: 1vw;
+  border-radius: 0.5vw;
+}
+
+.increment_button {
+  background-color: green;
+}
+
+.decrement_button {
+  background-color: red;
+}
